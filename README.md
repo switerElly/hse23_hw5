@@ -6,10 +6,11 @@
 ## Нормализация данных
 
 Нормализировала данные по стандартной формуле TPM:
-![image](https://github.com/switerElly/hse23_hw4/blob/main/img/1.png)
+![image](https://github.com/switerElly/hse23_hw5/blob/main/img/TPM.png)
 
 ## Heatmap
-![image](https://github.com/switerElly/hse23_hw4/blob/main/img/1.png)
+![image](https://github.com/switerElly/hse23_hw5/blob/main/img/1.png)
 
 ## UMAP и PCA
-![image](https://github.com/switerElly/hse23_hw4/blob/main/img/1.png)
+![image](https://github.com/switerElly/hse23_hw5/blob/main/img/2.png)
+![image](https://github.com/switerElly/hse23_hw5/blob/main/img/3.png)
