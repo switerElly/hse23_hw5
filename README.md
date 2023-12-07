@@ -11,6 +11,10 @@
 ## Heatmap
 ![image](https://github.com/switerElly/hse23_hw5/blob/main/img/1.png)
 
+Отчетливо видно 5 групп, то есь есть клетки принадлежащие определенному кластеру (каждый кластер - определенный тип клетки)
+
 ## UMAP и PCA
 ![image](https://github.com/switerElly/hse23_hw5/blob/main/img/2.png)
 ![image](https://github.com/switerElly/hse23_hw5/blob/main/img/3.png)
+
+По этим графикам видно, что разбиение прошло на те же 5 групп, то есть правильно. UMAP работает лучше, он не линеен в отличие от PCA.
